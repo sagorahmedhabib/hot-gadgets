@@ -1,0 +1,58 @@
+.nab-bg{
+    background-color: #FFFFFF;
+}
+.nav-item{
+    font-size: 18px;
+    padding-right: 15px;
+}
+.nav-item:last-child {
+    padding-right: 0; 
+   }
+.nav-link{
+    color: #FFFFFF;
+}
+.nav-link:hover{
+    color: tomato;
+}
+.carousel-item h5{
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 15px;
+}
+.carousel-item button{
+    background: black;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.fa{
+    margin-left: 10px;
+}
+.containermar{
+    margin-top: 40px;
+}  
+.card{
+    border: none;
+    box-shadow: 1px 1px 5px black;
+}
+.card .buy-now{
+    background: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.Catagories-top{
+    background-color: #FFFFFF;
+}
+.Catagories-top::after{
+    content: '';
+    height: 5px;
+    width: 200px;
+    background-color: #FFAE2B;
+    display: block;
+    margin-left: 41%;
+}
+
